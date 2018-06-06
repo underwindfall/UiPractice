@@ -1,9 +1,4 @@
-## 交作业
-[直方图](app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice10HistogramView.java)
-<img src="screenshot/histogram.png" width="40%"/>
-
-[饼图](app/src/main/java/com/hencoder/hencoderpracticedraw1/practice/Practice11PieChartView.java)
-<img src="screenshot/pie_chart.png" width="40%"/>
+## UI Practice
 
 ------------------------------------
 
