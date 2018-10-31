@@ -39,7 +39,6 @@ public class Sample01AfterOnDrawView extends AppCompatImageView {
         super.onDraw(canvas);
 
         if (DEBUG) {
-            // 在 debug 模式下绘制出 drawable 的尺寸信息
             Drawable drawable = getDrawable();
             if (drawable != null) {
                 canvas.save();
